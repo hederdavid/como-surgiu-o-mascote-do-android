@@ -12,8 +12,8 @@ body {
 header {
      background-image: linear-gradient(to top, #012c13, #2ebf60);
      height: 250px;
-     margin: -8px;
-     padding: 1px;
+     margin: -2%;
+     padding: 0.5%;
      box-shadow: 0 4px 6px -3px rgba(0, 0, 0, 0.6);
       
       
@@ -28,12 +28,12 @@ header > a:hover {
 
 main {
     background-color: white;
-    margin-top: 8px;
-    margin-right: 230px;
-    margin-left: 230px;
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
+    margin-top: 2%;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
     box-shadow: 8px 0 6px -6px rgba(0, 0, 0, 0.149), -8px 0 6px -6px rgba(0, 0, 0, 0.252);
 
     
@@ -72,14 +72,14 @@ h1 {
 .video {
     display: block;
     margin: 0 auto;
-    width: 900px;
-    height: 506.25px;
+    width: 75%;
+    height: 30em;
     text-align: center;
     background-color: #012b12;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-right: 60px;
-    padding-left: 60px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 6%;
+    padding-left: 6%;
 }
 
 .a-main {
@@ -113,9 +113,9 @@ h1 {
 
 .a-cabecalho {
     position: relative;
-    top: 77px;
-    left: 12px;
-    padding-right: 10px;
+    top: 31%;
+    left: 2%;
+    padding-right: 1%;
     text-decoration: none;
     color: #9aeebe;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
