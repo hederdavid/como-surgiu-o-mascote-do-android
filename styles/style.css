@@ -60,9 +60,9 @@ header > p {
     max-width: 600px;
     padding-left: 10px;
     padding-right: 10px;
-    
+    margin-bottom: 20px;
+    background-color: transparent;
     margin: auto;
-    
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.414);
     
     
@@ -97,6 +97,8 @@ main {
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
     background-color: white;
+    margin-bottom: 30px;
+    background-color: transparent;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.355);
 }
 
@@ -211,3 +213,4 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
 }
+
