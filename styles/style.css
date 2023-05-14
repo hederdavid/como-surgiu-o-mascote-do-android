@@ -60,8 +60,9 @@ header > p {
     max-width: 600px;
     padding-left: 10px;
     padding-right: 10px;
+    
     margin: auto;
-    margin-bottom: 20px;
+    
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.414);
     
     
@@ -92,7 +93,7 @@ main {
     max-width: 1000px;
     padding: 20px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 30px;
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
     background-color: white;
